@@ -1,3 +1,4 @@
+""" Climate analysis code"""
 import sys
 import temp_conversion
 import signal
